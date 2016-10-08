@@ -16,9 +16,6 @@ eureka:
 
 ---
 
-spring:
-  profiles: docker
-
 # EUREKA
 eureka:
   client:

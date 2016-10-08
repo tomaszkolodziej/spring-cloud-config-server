@@ -39,9 +39,6 @@ security:
 
 ---
 
-spring:
-  profiles: docker
-
 # EUREKA
 eureka:
   client:
