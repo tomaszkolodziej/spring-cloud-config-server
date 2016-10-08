@@ -13,7 +13,7 @@ eureka:
 # ZULL
 zuul:
   routes:
-     api-service:
+     events-service:
           sensitiveHeaders:
           path: /api/**
           stripPrefix: true
